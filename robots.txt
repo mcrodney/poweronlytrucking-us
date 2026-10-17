@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://poweronlytrucking.us/sitemap.xml
